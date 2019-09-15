@@ -1,0 +1,50 @@
+{
+	"167.179.69.178" : {
+		"totalUploadBytes" : 78931,
+		"totalDownloadBytes" : 623859
+	},
+	"81.90.190.5" : {
+		"totalUploadBytes" : 1321617,
+		"totalDownloadBytes" : 132061155
+	},
+	"167.71.125.213" : {
+		"totalUploadBytes" : 42613,
+		"totalDownloadBytes" : 944622
+	},
+	"138.68.215.166" : {
+		"totalUploadBytes" : 15975097,
+		"totalDownloadBytes" : 16259411
+	},
+	"167.71.201.26" : {
+		"totalUploadBytes" : 108236,
+		"totalDownloadBytes" : 53859
+	},
+	"157.230.205.92" : {
+		"totalUploadBytes" : 381674,
+		"totalDownloadBytes" : 4484766
+	},
+	"138.68.217.80" : {
+		"totalUploadBytes" : 440780,
+		"totalDownloadBytes" : 7067898
+	},
+	"154.84.1.144" : {
+		"totalUploadBytes" : 15636,
+		"totalDownloadBytes" : 16863
+	},
+	"52.198.243.129" : {
+		"totalUploadBytes" : 71703,
+		"totalDownloadBytes" : 1980463
+	},
+	"172.104.92.92" : {
+		"totalUploadBytes" : 5118790,
+		"totalDownloadBytes" : 44666464
+	},
+	"172.104.80.38" : {
+		"totalUploadBytes" : 862,
+		"totalDownloadBytes" : 10297
+	},
+	"209.58.188.157" : {
+		"totalUploadBytes" : 1159898,
+		"totalDownloadBytes" : 10175646
+	}
+}
