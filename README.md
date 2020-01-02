@@ -30,5 +30,3 @@ https://heikejilaila.xyz/keji.php?id=22c7b9fdda20bb7405b270cd75971f66
 https://yangwangssr.000webhostapp.com/
 
 https://ssrsub.00oo000.ooo/
-
-ss://YWVzLTI1Ni1jZmI6Y0c5UGMwMXFRWGhQVXpCM1QxTXdkMDFwTUhoT1VWZFJZMUAyMDIuMTgyLjExMi4xMzE6NTIyMTk
